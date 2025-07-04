@@ -1,7 +1,7 @@
 **💸 Expense Tracker App**
 
 A modern, mobile-responsive **Expense Tracker App** built with **HTML, CSS, and JavaScript**. 
-It allows users to manage their finances by tracking income and expenses in a clean, Add Dark and Light Mode.
+It allows users to manage their finances by tracking income and expenses in a clean, Add Dark and Light Mode in future.
 
 **✨ Features**
 
