@@ -1,7 +1,7 @@
 **💸 Expense Tracker App**
 
 A modern, mobile-responsive **Expense Tracker App** built with **HTML, CSS, and JavaScript**. 
-It allows users to manage their finances by tracking income and expenses in a clean, dark-themed UI.
+It allows users to manage their finances by tracking income and expenses in a clean, Add Dark and Light Mode.
 
 **✨ Features**
 
@@ -13,7 +13,6 @@ It allows users to manage their finances by tracking income and expenses in a cl
   - Total Expenses
 - ✅ Edit or delete any transaction
 - ✅ Responsive layout for mobile and desktop
-- ✅ **Dark Mode Toggle** 🌙 / ☀️
 - ✅ Form validation to prevent empty submissions
 - ✅ Smooth and modern UI using custom CSS variables
 
@@ -26,7 +25,4 @@ Click here to view the live version: (https://expensetraker-app.netlify.app/)
 - HTML5
 - CSS3 (Custom Variables, Flexbox, Responsive)
 - JavaScript (Vanilla)
-
-
-
 
