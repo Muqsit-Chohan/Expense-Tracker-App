@@ -5,7 +5,7 @@ It allows users to manage their personal finances by tracking income and expense
 
 📸 Preview
 
-![App Screenshot](screenshot.png) <!-- Replace with actual image if available -->
+![App Screenshot in Mobile ](Mobile - SS.png) <!-- Replace with actual image if available -->
 
 **✨ Features**
 
