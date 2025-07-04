@@ -1,11 +1,7 @@
 **💸 Expense Tracker App**
 
 A modern, mobile-responsive **Expense Tracker App** built with **HTML, CSS, and JavaScript**. 
-It allows users to manage their personal finances by tracking income and expenses in a clean, dark-themed UI.
-
-📸 Preview
-
-![App Screenshot in Mobile ](Mobile - SS.png) <!-- Replace with actual image if available -->
+It allows users to manage their finances by tracking income and expenses in a clean, dark-themed UI.
 
 **✨ Features**
 
@@ -15,7 +11,7 @@ It allows users to manage their personal finances by tracking income and expense
   - Net Balance
   - Total Earnings
   - Total Expenses
-- ✅ Edit or Delete any transaction
+- ✅ Edit or delete any transaction
 - ✅ Responsive layout for mobile and desktop
 - ✅ **Dark Mode Toggle** 🌙 / ☀️
 - ✅ Form validation to prevent empty submissions
@@ -23,7 +19,7 @@ It allows users to manage their personal finances by tracking income and expense
 
 **🚀 Live Demo**
 
-Click here to view the live version: (https://your-live-link.com)  
+Click here to view the live version: (https://expensetraker-app.netlify.app/)  
 
 **🛠️ Built With**
 
