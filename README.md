@@ -50,7 +50,7 @@ Click the 🌙 icon to toggle between light and dark mode. This uses a CSS class
 
 All your transactions are saved in your browser’s **Local Storage**. Even if you refresh or reopen the page later, your data stays!
 
-## Preview 
+## 🔗 Preview 
 
 **LINK** : https://expensetraker-app.netlify.app/
 
