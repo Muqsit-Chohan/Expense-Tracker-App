@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expense Tracking App</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="box">
+            <button id="darkModeToggle" class="dark-toggle">🌙</button>
+            <section>
+                <div class="upperBox">
+                    <h1>Expense Traker</h1>
+                    <div class="balance">
+                        <h2 id="netAmmount">Rs 0</h2>
+                        <h3>Your Balance</h3>
+                    </div>
+                </div>
+            </section>
+
+            <div class="transaction-container">
+                <h2>Transactions</h2>
+                <hr />
+
+                <div class="transactions">
+                    <!-- <div class="transaction">
+                        <div class="content">
+                            <div class="left">
+                                <p>Exemple text</p>
+                                <p>+ Rs 500</p>
+                            </div>
+                            <div class="status credit">C</div>
+                        </div>
+                        <div class="lower">
+                            <div class="icon">
+                                <img src="./pen.svg" alt="pen">
+                            </div>
+                            <div class="icon">
+                                <img src="./trash.svg" alt="trash">
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+
+            <section>
+                <div class="transaction-form">
+
+                    <h3>Add Trasactions</h3>
+                    <form id="transactions-form">
+                        <div class="inputs">
+                            <div class="form-control">
+                                <label for="text">Text</label>
+                                <input type="text" id="text" name="text" placeholder="Enter Description">
+                            </div>
+                            <div class="form-control">
+                                <label for="amount">Amount</label>
+                                <input type="number" id="amount" name="amount" placeholder="Enter Amount">
+                            </div>
+                        </div>
+
+                        <div class="button-container">
+                            <button type="submit" id="earnBtn">
+                                <p id="earning">Rs 0</p>
+                                <p>Earning</p>
+                            </button>
+                            <button type="submit" id="expenseBtn">
+                                <p id="expense">Rs 0</p>
+                                <p>Expense</p>
+                            </button>
+
+                        </div>
+                    </form>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
